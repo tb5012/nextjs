@@ -11,7 +11,7 @@ export function Portfolio() {
   return (
     <div key="1" className="flex flex-col min-h-screen dark:text-white">
       <header className="flex items-center justify-between h-16 px-4 bg-white dark:bg-gray-900 fixed w-full top-0 z-10">
-        <div className="text-2xl font-bold">Your Name</div>
+        <div className="text-2xl font-bold">Tony Baek</div>
         <nav className="flex gap-4">
           <Link className="hover:underline" href="#">
             About
