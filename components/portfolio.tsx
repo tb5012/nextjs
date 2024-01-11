@@ -30,7 +30,7 @@ export function Portfolio() {
       <main className="flex-1">
         <section className="flex flex-col items-center justify-center h-[60vh] bg-gray-100 dark:bg-gray-800" id="about">
           <h1 className="text-4xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500">
-            Hello, I'm Your Name
+            Hello, I'm Tony Baek
           </h1>
           <p className="text-lg text-center max-w-md">
             I'm a full-stack developer specialized in building high-quality websites and applications.
